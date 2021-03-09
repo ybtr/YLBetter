@@ -2,7 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/32989588/110517511-a22aae80-8113-11eb-9069-fb83be5f1f1b.png)
 
-```js
+- ***[Click Here For Install YLBetter.user.js](https://github.com/ylbetter/YLBetter/raw/main/ylbetter.user.js)***
+
+```javascript
 // ==UserScript==
 // @name         YTLBetter Button
 // @namespace    https://ylbetter.github.io
