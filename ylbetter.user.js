@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YTLBetter Button
 // @namespace    https://ylbetter.github.io
-// @version      1.0
+// @version      1.1
 // @description  Try to take over the world!
 // @icon         https://avatars.githubusercontent.com/u/80352165?s=200&v=4
 // @author       browjob
