@@ -8,6 +8,7 @@
 // @match        https://www.youtube.com/*
 // @exclude      https://www.youtube.com/embed/*
 // @exclude      https://www.youtube.com/live_chat?v=*
+// @exclude      https://www.youtube.com/live_chat_replay?*
 // @grant        GM_addStyle
 // ==/UserScript==
 
