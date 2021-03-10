@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         YTLBetter Button
 // @namespace    https://ylbetter.github.io
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  Try to take over the world!
 // @icon         https://avatars.githubusercontent.com/u/80352165?s=200&v=4
-// @author       You
+// @author       browjob
 // @match        https://www.youtube.com/*
 // @exclude      https://www.youtube.com/embed/*
 // @exclude      https://www.youtube.com/live_chat?v=*
@@ -50,4 +50,4 @@ GM_addStyle ( `
     opacity: 0.7;
     font-size: 16px;
 }
-` );
+`);
