@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YTLBetter Button
-// @namespace    https://ylbetter.github.io
+// @namespace    https://ylbetter.yttybe.cf
 // @version      1.2
 // @description  Try to take over the world!
 // @icon         https://avatars.githubusercontent.com/u/80352165?s=200&v=4
@@ -26,7 +26,7 @@ document.getElementById ("btn").addEventListener (
 );
 
 function ButtonClickAction (zEvent) {
-    var url = "https://ylbetter.github.io/watch" + window.location.search;
+    var url = "https://ylbetter.yttybe.cf/watch" + window.location.search;
     window.location.replace(url);
 }
 GM_addStyle ( `
